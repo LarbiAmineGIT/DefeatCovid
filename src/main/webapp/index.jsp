@@ -41,7 +41,7 @@
                 <div class="p-4 p-lg-5 bg-light rounded-3 text-center">
                     <div class="m-4 m-lg-5">
                         <h1 class="display-5 fw-bold">Bienvenue</h1>
-                        <p class="fs-4"> DefeatCovid est une application cr��e pour aider � la lute contre la Covid-19</p>
+                        <p class="fs-4"> DefeatCovid est une application créée pour aider à la lutte contre la Covid-19</p>
                         <a class="btn btn-primary btn-lg" href="#!">Call to action</a>
                     </div>
                 </div>
@@ -55,54 +55,54 @@
                     <div class="col-lg-6 col-xxl-4 mb-5">
                         <div class="card shadow bg-light border-0 h-100">
                             <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
-                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-collection"></i></div>
-                                <h2 class="fs-4 fw-bold">Fresh new layout</h2>
-                                <p class="mb-0">With Bootstrap 5, we've created a fresh new layout for this template!</p>
+                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-bicycle"></i></div>
+                                <h2 class="fs-4 fw-bold">Activités</h2>
+                                <p class="mb-0">Suivez les activités de vos amis et partagez les vôtres !</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-xxl-4 mb-5">
                         <div class="card shadow bg-light border-0 h-100">
                             <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
-                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-cloud-download"></i></div>
-                                <h2 class="fs-4 fw-bold">Free to download</h2>
-                                <p class="mb-0">As always, Start Bootstrap has a powerful collectin of free templates.</p>
+                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-bell"></i></div>
+                                <h2 class="fs-4 fw-bold">Notifications</h2>
+                                <p class="mb-0">Soyez notifiés si vous avez été en contact avec une personne positive et notifiez les autres si vous l'êtes !</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-xxl-4 mb-5">
                         <div class="card shadow bg-light border-0 h-100">
                             <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
-                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-card-heading"></i></div>
-                                <h2 class="fs-4 fw-bold">Jumbotron hero header</h2>
-                                <p class="mb-0">The heroic part of this template is the jumbotron hero header!</p>
+                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-cloud-upload"></i></div>
+                                <h2 class="fs-4 fw-bold">Centralisation</h2>
+                                <p class="mb-0">Centralisez vos déplacements pour limiter les risques pour vous et vos proches !</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-xxl-4 mb-5">
                         <div class="card shadow bg-light border-0 h-100">
                             <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
-                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-bootstrap"></i></div>
-                                <h2 class="fs-4 fw-bold">Feature boxes</h2>
-                                <p class="mb-0">We've created some custom feature boxes using Bootstrap icons!</p>
+                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-person-plus"></i></div>
+                                <h2 class="fs-4 fw-bold">Amis</h2>
+                                <p class="mb-0">Ajoutez tous vos amis sur le site !</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-xxl-4 mb-5">
                         <div class="card shadow bg-light border-0 h-100">
                             <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
-                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-code"></i></div>
-                                <h2 class="fs-4 fw-bold">Simple clean code</h2>
-                                <p class="mb-0">We keep our dependencies up to date and squash bugs as they come!</p>
+                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-wind"></i></div>
+                                <h2 class="fs-4 fw-bold">Tuons le COVID</h2>
+                                <p class="mb-0">Avec ce site et nos efforts, éradiquons le COVID une bonne fois pour toutes !</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6 col-xxl-4 mb-5">
                         <div class="card shadow bg-light border-0 h-100">
                             <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
-                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-patch-check"></i></div>
-                                <h2 class="fs-4 fw-bold">A name you trust</h2>
-                                <p class="mb-0">Start Bootstrap has been the leader in free Bootstrap templates since 2013!</p>
+                                <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-currency-euro"></i></div>
+                                <h2 class="fs-4 fw-bold">Gratuit</h2>
+                                <p class="mb-0">Tout ça, pour approximativement zéro euros TTC !</p>
                             </div>
                         </div>
                     </div>
